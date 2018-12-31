@@ -1,0 +1,25 @@
+{
+  "name": "screeps",
+  "version": "1.0.0",
+  "description": "",
+  "main": "screepsPOST.js",
+  "dependencies": {
+    "eslint": "^5.11.1",
+    "grunt": "^1.0.3",
+    "grunt-screeps": "^1.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cetiniz/screeps.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cetiniz/screeps/issues"
+  },
+  "homepage": "https://github.com/cetiniz/screeps#readme"
+}
