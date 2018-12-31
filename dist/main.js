@@ -13,7 +13,6 @@ var externalHarvest = require('zerg.externalHarvest');
 var externalHarvest1 = require('zerg.externalHarvest1');
 var externalHarvest2 = require('zerg.externalHarvest2');
 var towerUpgrader = require('zerg.towerUpgrader');
-var tempBuilder = require('temp.zerg.createspawn');
 var linker = require('zerg.linker');
 const profiler = require('screeps-profiler');
 
